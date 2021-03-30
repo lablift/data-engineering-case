@@ -4,7 +4,7 @@ O case foi elaborado para ser feito em 1 hora, mas você terá até 05/04/2021 2
 
 Nos esforçamos para propor um case divertido. Esperamos que sua experiência seja positiva :)
 
-Doações de sangue são fundamentais para o sistema de saúde, e manter a recorrência dos doadores é um desafio para bancos de sangue. Neste case você irá criar uma API para um sistema que prevê se um doador fará sua próxima doação neste mês! O modelo treinado é fornecido. A sua submissão será testada em uma máquina local (mais instruções em [Submissão e próximos passos](#submiss%C3%A3o-e-pr%C3%B3ximos-passos).
+Doações de sangue são fundamentais para o sistema de saúde, e manter a recorrência dos doadores é um desafio para bancos de sangue. Neste case você irá criar uma API para um sistema que prevê se um doador fará sua próxima doação neste mês! O modelo treinado é fornecido. A sua submissão será testada em uma máquina local (mais instruções em [Submissão e próximos passos](#submiss%C3%A3o-e-pr%C3%B3ximos-passos)).
 
 ## Parte 1
 Implemente uma função que recebe um `patient_id` do arquivo `blood_donation_hist.csv` e retorna um dicionário com os resultados calculados abaixo. 
