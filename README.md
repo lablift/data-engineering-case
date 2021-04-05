@@ -1,6 +1,6 @@
 # Case Engenheiro(a) de Dados - LabLift
 
-O case foi elaborado para ser feito em 1 hora, mas você terá até 05/04/2021 23:55 para resolvê-lo. Se não tiver disponibilidade neste período, por favor entre em contato para avaliarmos o caso. 
+O case foi elaborado para ser feito em 1 hora, mas você terá até 12/04/2021 23:55 para resolvê-lo. Se não tiver disponibilidade neste período, por favor entre em contato para avaliarmos o caso. 
 
 Nos esforçamos para propor um case divertido. Esperamos que sua experiência seja positiva :)
 
